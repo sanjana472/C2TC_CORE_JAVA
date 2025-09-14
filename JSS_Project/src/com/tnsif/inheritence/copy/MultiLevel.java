@@ -1,4 +1,4 @@
-package com.tnsif.inheritence;
+package com.tnsif.inheritence.copy;
 
 public class MultiLevel {
 
